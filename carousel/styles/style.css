@@ -1,0 +1,27 @@
+body
+{
+    background:#3780ca9e;
+}
+
+.hetic-carousel
+{
+    margin:0 auto;
+    width:600px;
+    height:400px;
+    
+}
+
+img
+{
+    display:flex;
+    margin:0 auto;
+}
+
+.centerImage
+{
+    margin-top:10%;
+}
+.centerImage2
+{
+    margin-top:3%;
+}
